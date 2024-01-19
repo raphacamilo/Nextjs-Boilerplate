@@ -22,8 +22,8 @@ const TTNorms = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Manga App",
-  description: "The best app for mangas"
+  title: "My App",
+  description: "The best app"
 }
 
 export default function RootLayout({
