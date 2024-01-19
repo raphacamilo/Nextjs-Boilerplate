@@ -10,9 +10,12 @@
     "next/core-web-vitals",
     "plugin:testing-library/react",
     "plugin:jest-dom/recommended",
-    "prettier"
+    "prettier",
+    "plugin:storybook/recommended"
   ],
-  "plugins": ["@typescript-eslint"],
+  "plugins": [
+    "@typescript-eslint"
+  ],
   "parser": "@typescript-eslint/parser",
   "rules": {
     "@next/next/no-img-element": "off",
